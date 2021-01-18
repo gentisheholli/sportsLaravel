@@ -1,0 +1,81 @@
+@media (max-width: 450px) {
+    .display-3 {
+        font-size: 4rem !important;
+    }
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-family: inherit;
+    font-weight: 400;
+}
+
+.input-group.md-form.form-sm.form-1 input {
+    border: 1px solid #bdbdbd;
+    border-top-right-radius: 0.25rem;
+    border-bottom-right-radius: 0.25rem;
+}
+.input-group.md-form.form-sm.form-2 input {
+    border: 1px solid #bdbdbd;
+    border-top-left-radius: 0.25rem;
+    border-bottom-left-radius: 0.25rem;
+}
+.input-group.md-form.form-sm.form-2 input.red-border {
+    border: 1px solid #bdbdbd;
+}
+.input-group.md-form.form-sm.form-2 input.lime-border {
+    border: 1px solid #bdbdbd;
+}
+.input-group.md-form.form-sm.form-2 input.amber-border {
+    border: 1px solid #bdbdbd;
+}
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.2rem rgba(163, 213, 73, 0.25) !important;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: rgb(163, 213, 73) !important;
+    border-color: rgb(163, 213, 73) !important;
+}
+
+.btn {
+    border-radius: 0.25rem !important;
+}
+
+.green-bg {
+    background-color: #a3d549;
+}
+
+.green {
+    color: #a3d549;
+}
+
+.banner {
+    background-size: cover;
+    background-attachment: fixed;
+    height: 30vh;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    background-blend-mode: color;
+}
+
+.white{
+    color:white;
+}
+
+body{
+    overflow-x: hidden;
+}
+
+*{
+    font-family: 'Montserrat';
+}
+
+.font-light{
+    font-weight: 300;
+}
+
+.text-justify{
+    text-align: justify;
+}

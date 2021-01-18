@@ -1,0 +1,19 @@
+footer{
+    border-top: 1px solid #A3D549;
+    background-image:  url('/images/footer.jpg');
+    background-size: cover;
+    background-color:rgba(0,0,0,0.5);
+    background-blend-mode: color;
+}
+
+footer p.font-weight-bold{
+    font-size: 20px;
+}
+
+footer *{
+    color:white;
+}
+
+footer hr{
+    border-top: 1px solid #A3D549;
+}
